@@ -1,6 +1,6 @@
-set /p commit_log=«Î ‰»Îcommit–≈œ¢£∫
+set /p commit_msg=Please input commit message:
 git status
 git add -A
-git commit -m "%commit_log"
+git commit -m "%commit_msg"
 git push origin master
 pause
