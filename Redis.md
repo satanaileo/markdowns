@@ -6,7 +6,7 @@ redis官网下载stable版本，只有Linux版本，在Linux系统下解压后�
 
 ## 2. Redis启动
 
-![image-20220902125604307](C:\Users\SATANAILEO\AppData\Roaming\Typora\typora-user-images\image-20220902125604307.png)
+![image-20220902125604307](assets/image-20220902125604307-16621961501462.png)
 
 ```java
 redis-server /etc/redis.conf // 注意，这里的redis.conf是从redis安装包解压后的文件夹中拷贝过来的
